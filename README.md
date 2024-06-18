@@ -49,7 +49,7 @@ The program should display the collected character details in a structured forma
 
 ### 4. Type Conversion
 
-- Use static_cast<type>() to convert the height from meters (double) to centimeters (int).
+- Use `static_cast<type>()` to convert the height from meters (double) to centimeters (int).
 
 ### 5. Display Character Profile
 
