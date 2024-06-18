@@ -47,7 +47,11 @@ The program should display the collected character details in a structured forma
 - Use `std::cin` for single character input (gender).
 - Use `std::cin` for boolean input (has familiar).
 
-### 4. Display Character Profile
+### 4. Type Conversion
+
+- Use static_cast<type>() to convert the height from meters (double) to centimeters (int).
+
+### 5. Display Character Profile
 
 - Format and display the character's profile using `std::cout`.
 
@@ -103,5 +107,3 @@ Enter your character's speed (meters per second): 3.5
 ### 3. Submit the link to your repository through your program dashboard to continue the program.
 
 ### 4. A code review will be processed once the submission is received.
-
-
