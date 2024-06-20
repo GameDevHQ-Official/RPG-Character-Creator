@@ -91,9 +91,9 @@ Enter your character's speed (meters per second): 3.5
 * Wisdom:        13                                             *
 * Charisma:      16                                             *
 * Age:           87                                             *
-* Height:        1.95 meters                                    *
+* Height:        195 centimeters                                *
 * Gender:        M                                              *
-* Has Familiar:  1                                            *
+* Has Familiar:  1                                              *
 * Initiative:    12                                             *
 * Speed:         3.5 meters/second                              *
 *****************************************************************
