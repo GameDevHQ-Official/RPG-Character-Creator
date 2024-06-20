@@ -93,7 +93,7 @@ Enter your character's speed (meters per second): 3.5
 * Age:           87                                             *
 * Height:        1.95 meters                                    *
 * Gender:        M                                              *
-* Has Familiar:  Yes                                            *
+* Has Familiar:  1                                            *
 * Initiative:    12                                             *
 * Speed:         3.5 meters/second                              *
 *****************************************************************
