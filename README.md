@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a RPG character creator program in C++ that collects and displays various character details using different data types.
+Create a RPG character creator program in C++ that collects and displays various character details using different data types. 
 
 ## Requirements
 
